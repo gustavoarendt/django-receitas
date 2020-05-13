@@ -1,2 +1,2 @@
 # django-receitas
-Content created when learning django framework
+Recipe manager backend done while learning django framework at Alura, using postgreSQL as database.
